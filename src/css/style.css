@@ -38,3 +38,8 @@ body.dark {
 .dark .border-slate-400 {
   border-color: #64748b;
 }
+
+.dark .nimadr {
+  background-color: #334155;
+  color: #94a3b8;
+}
